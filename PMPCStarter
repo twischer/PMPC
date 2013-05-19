@@ -1,0 +1,12 @@
+#! /bin/sh
+PMPCDir=`dirname $0`
+
+while true; do
+	perl $PMPCDir/PMPC.pl
+	
+	if [ $? -eq 0 ]
+	then
+		break
+	fi
+done
+

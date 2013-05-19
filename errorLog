@@ -1,0 +1,70 @@
+[20:46:45.927] DEBUG: Player is starting ...
+[20:46:45.957] DEBUG: MPDCtrl: Starting MPD client ...
+[20:46:46.194] DEBUG: Playlist: All songs of the charts and/or favorite lists were played.
+[20:46:46.195] DEBUG: Playlist: Loading charts and/or favorite lists ...
+# Top100
+# Dance
+# UK
+# US
+[20:46:46.196] DEBUG: Playlist: Look for random song in charts and/or favorite lists ...
+# Random playlist length: 72
+[20:46:46.199] DEBUG: Playlist: Add random song 'Unsortiert/Dance Charts/2009_03_23/049-paul_and_fritz_kalkbrenner_-_sky_and_sand-ministry.mp3'
+[20:47:05.749] DEBUG: Search: Looking for songs which match to 'neu2' ...
+# Done.
+[20:47:14.356] DEBUG: Playlist: Look for random song in charts and/or favorite lists ...
+# Random playlist length: 71
+[20:47:14.358] DEBUG: Playlist: Add random song 'gsdownloads/The BossHoss - Don't Gimme That - German Single Charts Top 100.mp3'
+[20:47:18.389] DEBUG: Playlist: Look for random song in charts and/or favorite lists ...
+# Random playlist length: 70
+[20:47:18.393] DEBUG: Playlist: Add random song 'Unsortiert/Single Charts/2008_08_18/033-the_guru_josh_project_-_infinity_2008-ministry.mp3'
+[20:47:37.839] DEBUG: Playlist: Add file 'gsdownloads/Neu2/Franky B - Mr Lonely.mp3'
+[20:47:48.594] DEBUG: Playlist: Add file 'gsdownloads/Neu2/Snoop Dogg feat David Guetta - Wet.mp3'
+[20:48:25.551] DEBUG: Playlist: Add file 'gsdownloads/Neu2/Example - Last Ones Standing.mp3'
+[20:48:29.637] DEBUG: Search: Looking for songs which match to 'neu2' ...
+# Done.
+[20:48:31.798] DEBUG: Search: Looking for songs which match to 'neu' ...
+# Done.
+[20:51:04.410] DEBUG: Playlist: Look for random song in charts and/or favorite lists ...
+# Random playlist length: 69
+[20:51:04.413] DEBUG: Playlist: Add random song 'House/A/Avicii - Levels.mp3'
+[20:53:54.163] DEBUG: MPDCtrl: Toggle playing status
+[20:55:25.819] DEBUG: MPDCtrl: Toggle playing status
+[20:55:59.831] DEBUG: Playlist: Look for random song in charts and/or favorite lists ...
+# Random playlist length: 68
+[20:55:59.834] DEBUG: Playlist: Add random song 'Pop/T/Taio Cruz - Troublemaker.mp3'
+[21:01:29.307] DEBUG: Playlist: Look for random song in charts and/or favorite lists ...
+# Random playlist length: 67
+*** unhandled exception in callback:
+***   [50@0] {add} directory or file not found at /usr/local/share/perl/5.14.2/Thread/Isolate.pm line 46, <GEN4521> line 2.
+***  ignoring at GUI.pm line 94.
+*** unhandled exception in callback:
+***   [50@0] {add} directory or file not found at /usr/local/share/perl/5.14.2/Thread/Isolate.pm line 46, <GEN4521> line 2.
+***  ignoring at GUI.pm line 94.
+*** unhandled exception in callback:
+***   [50@0] {add} directory or file not found at /usr/local/share/perl/5.14.2/Thread/Isolate.pm line 46, <GEN4521> line 2.
+***  ignoring at GUI.pm line 94.
+*** unhandled exception in callback:
+***   [50@0] {add} directory or file not found at /usr/local/share/perl/5.14.2/Thread/Isolate.pm line 46, <GEN4521> line 2.
+***  ignoring at GUI.pm line 94.
+*** unhandled exception in callback:
+***   [50@0] {add} directory or file not found at /usr/local/share/perl/5.14.2/Thread/Isolate.pm line 46, <GEN4521> line 2.
+***  ignoring at GUI.pm line 94.
+*** unhandled exception in callback:
+***   [50@0] {add} directory or file not found at /usr/local/share/perl/5.14.2/Thread/Isolate.pm line 46, <GEN4521> line 2.
+***  ignoring at GUI.pm line 94.
+*** unhandled exception in callback:
+***   [50@0] {add} directory or file not found at /usr/local/share/perl/5.14.2/Thread/Isolate.pm line 46, <GEN4521> line 2.
+***  ignoring at GUI.pm line 94.
+*** unhandled exception in callback:
+***   [50@0] {add} directory or file not found at /usr/local/share/perl/5.14.2/Thread/Isolate.pm line 46, <GEN4521> line 2.
+***  ignoring at GUI.pm line 94.
+*** unhandled exception in callback:
+***   [50@0] {add} directory or file not found at /usr/local/share/perl/5.14.2/Thread/Isolate.pm line 46, <GEN4521> line 2.
+***  ignoring at GUI.pm line 94.
+*** unhandled exception in callback:
+***   [50@0] {add} directory or file not found at /usr/local/share/perl/5.14.2/Thread/Isolate.pm line 46, <GEN4521> line 2.
+***  ignoring at GUI.pm line 94.
+*** unhandled exception in callback:
+***   [50@0] {add} directory or file not found at /usr/local/share/perl/5.14.2/Thread/Isolate.pm line 46, <GEN4521> line 2.
+***  ignoring at GUI.pm line 94.
+

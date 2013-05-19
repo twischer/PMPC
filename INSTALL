@@ -1,0 +1,15 @@
+
+sudo apt-get install mpd mpc libgstreamer-interfaces-perl gstreamer0.10-plugins-good gstreamer0.10-fluendo-mp3 gstreamer0.10-alsa libpango-perl libgtk2-perl libaudio-mpd-perl libtext-levenshtein-perl libmpdclient-dev libinline-perl mp3gain
+sudo cpan -f -i Thread::Isolate
+
+mkdir ~/.mpd
+mkdir ~/.mpd/playlists
+
+
+sudo /etc/init.d/mpd stop
+sudo nano /etc/default/mpd
+# true in false ändern
+
+
+Musik-Verzeichnis in der ./PMPC/mpd.conf ändern
+Selbes Musik-Verzeichnis in der GUI unter einstellungen einstellen
